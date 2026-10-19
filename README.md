@@ -2440,7 +2440,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 | [**perorin0418/jcode-herdr-integration**](https://github.com/perorin0418/jcode-herdr-integration) | Reports jcode agent lifecycle states to the Herdr sidebar using hooks. |
 | [**shanefully-done/herdr-pane-equalizer**](https://github.com/shanefully-done/herdr-pane-equalizer) | Provides Resize herdr panes equally; automatically or manually. |
 | [**OahMoza/herdr-phalanx**](https://github.com/OahMoza/herdr-phalanx) | Orchestrates multi-agent tasks across parallel Herdr workspaces. |
-| [**CodeForBreakfast/beady-eye**](https://github.com/CodeForBreakfast/beady-eye) | Shows the work in your beads trackers as trees, with the live Herdr pane of each agent beside the bead it has claimed. Wakes a Claude Code agent when a bead it waits on changes, and settles pull-request waits on beads from GitHub. |
+| [**CodeForBreakfast/beady-eye**](https://github.com/CodeForBreakfast/beady-eye) | Shows you, live, what every agent is doing across your projects, and tells agents and scripts when the beads they wait on change. |
 | [**transparent-pegasus/herdr-remote**](https://github.com/transparent-pegasus/herdr-remote) | Provides a remote controller for herdr panes. |
 | [**wine-fall/herdr-copy-pane-id**](https://github.com/wine-fall/herdr-copy-pane-id) | Copies the focused pane's id to the clipboard, or show every pane's id on its border. |
 | [**oki2a24/herdr-mac-activity-monitor**](https://github.com/oki2a24/herdr-mac-activity-monitor) | Provides macos Activity Monitor for Herdr popup. |
